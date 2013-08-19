@@ -113,5 +113,11 @@ gem 'turnout'
 # File Uploads
 # gem 'carrierwave'
 
+# Static pages
+# gem 'redactor-rails'
+
+# Front-end
+# gem 'chosen-rails'
+
 # Recommendation Engines
 # https://www.ruby-toolbox.com/categories/Recommendation_Engines
